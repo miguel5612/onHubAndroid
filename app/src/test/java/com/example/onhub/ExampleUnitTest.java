@@ -1,4 +1,4 @@
-package com.onmotica.onhub;
+package com.example.onhub;
 
 import org.junit.Test;
 
